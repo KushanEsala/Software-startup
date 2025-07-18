@@ -31,7 +31,7 @@ const About = () => {
           >
             <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-6">Our Story</h2>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
-              Founded in 2023, our startup was born out of a passion for solving complex problems with innovative software solutions. We believe in the power of technology to transform businesses and improve lives.
+              Founded in 2025, our startup was born out of a passion for solving complex problems with innovative software solutions. We believe in the power of technology to transform businesses and improve lives.
             </p>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               Our team of experienced developers, designers, and strategists work together to deliver exceptional results for our clients. We pride ourselves on our collaborative approach and commitment to excellence.
