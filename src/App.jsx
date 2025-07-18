@@ -7,6 +7,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Services from './pages/Services';
 import ContactPage from './pages/ContactPage';
+import { HashRouter as Router } from 'react-router-dom'
 
 const App = () => {
   const location = useLocation();
