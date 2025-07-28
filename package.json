@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist -r https://github.com/KushanEsala/Software-startup.git",
     "lint": "eslint ."
   },
   "dependencies": {
@@ -37,5 +37,9 @@
     "postcss": "^8.5.6",
     "tailwindcss": "3.3.0",
     "vite": "^7.0.4"
-  }
+  },
+  "gh-pages": {
+  "repo": "https://github.com/KushanEsala/Software-startup.git"
+}
+
 }
